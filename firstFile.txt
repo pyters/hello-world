@@ -2,3 +2,5 @@ this is the first file, it is an example file
 
 #
 This is the proposed changes I want to make in my file
+
+# essa é uma terceira alteração
